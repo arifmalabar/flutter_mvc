@@ -1,6 +1,6 @@
 # core_mvc
 
-A new Flutter project.
+Core FLutter MVC
 
 ## Getting Started
 
